@@ -1,17 +1,17 @@
 [
   {
     "id": "short1",
-    "url": "https://www.youtube.com/embed/VIDEO_ID_1",
+    "url": "https://www.youtube.com/shorts/aKD9QN6mrMI",
     "title": "Short 1"
   },
   {
     "id": "short2",
-    "url": "https://www.youtube.com/embed/VIDEO_ID_2",
+    "url": "https://www.youtube.com/shorts/Kb19JAHEr20",
     "title": "Short 2"
   },
   {
     "id": "short3",
-    "url": "https://www.youtube.com/embed/VIDEO_ID_3",
+    "url": "https://www.youtube.com/shorts/_8lQwsBWBC4",
     "title": "Short 3"
   }
 ]
