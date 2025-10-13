@@ -1,0 +1,17 @@
+[
+  {
+    "id": "short1",
+    "url": "https://www.youtube.com/embed/VIDEO_ID_1",
+    "title": "Short 1"
+  },
+  {
+    "id": "short2",
+    "url": "https://www.youtube.com/embed/VIDEO_ID_2",
+    "title": "Short 2"
+  },
+  {
+    "id": "short3",
+    "url": "https://www.youtube.com/embed/VIDEO_ID_3",
+    "title": "Short 3"
+  }
+]
