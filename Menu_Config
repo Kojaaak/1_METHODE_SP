@@ -2,7 +2,7 @@
   "buttons": {
     "start": true,
     "web_games": true,
-    "trend_shorts": false,
+    "trend_shorts": true,
     "promo_app": false,
     "guide": true
   }
