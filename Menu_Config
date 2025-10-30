@@ -3,7 +3,7 @@
     "start": true,
     "web_games": true,
     "trend_shorts": true,
-    "promo_app": false,
+    "promo_app": true,
     "guide": true
   }
 }
